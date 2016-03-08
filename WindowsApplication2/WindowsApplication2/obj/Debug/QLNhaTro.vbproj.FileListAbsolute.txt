@@ -1,0 +1,21 @@
+C:\Users\MyPC\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\MyPC\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\MyPC\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\MyPC\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\MyPC\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.RrmQLNhaTro.resources
+C:\Users\MyPC\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+C:\Users\MyPC\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\QLNhaTro.vbproj.GenerateResource.Cache
+C:\Users\MyPC\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\MyPC\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Users\MyPC\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+E:\Môn học\Điện toán đám mây\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+E:\Môn học\Điện toán đám mây\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+E:\Môn học\Điện toán đám mây\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+E:\Môn học\Điện toán đám mây\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+E:\Môn học\Điện toán đám mây\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+E:\Môn học\Điện toán đám mây\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+E:\Môn học\Điện toán đám mây\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+E:\Môn học\Điện toán đám mây\WindowsApplication2\WindowsApplication2\obj\Debug\QLNhaTro.vbprojResolveAssemblyReference.cache
+E:\Môn học\Điện toán đám mây\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.RrmQLNhaTro.resources
+E:\Môn học\Điện toán đám mây\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+E:\Môn học\Điện toán đám mây\WindowsApplication2\WindowsApplication2\obj\Debug\QLNhaTro.vbproj.GenerateResource.Cache
